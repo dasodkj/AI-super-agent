@@ -1,6 +1,8 @@
 spring:
   application:
     name: yu-ai-agent
+  profiles:
+    active: dev
   ai:
     dashscope:
       api-key: ${SDK_API_KEY}
