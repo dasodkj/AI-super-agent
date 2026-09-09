@@ -37,3 +37,10 @@ knife4j:
 
 #sdk:
 #  apikey: ${SDK_API_KEY}
+
+
+
+
+#logging:
+#  level:
+#    org.springframework.ai.chat.client.advisor.SimpleLoggerAdvisor: debug
